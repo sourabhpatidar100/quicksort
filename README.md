@@ -1,2 +1,2 @@
 # quicksort
-quicksort with pivot as first element
+quicksort with pivot as last element
